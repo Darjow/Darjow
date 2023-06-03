@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   29 mins         ████████████████▒░░░░░░░░   65.78 %
-TeX          5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Python       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Bash         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
