@@ -22,6 +22,12 @@ No activity tracked
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
-```No repositories found.```
+- 6.67% Kotlin
+- 6.67% HTML
+- 33.33% Java
+- 26.67% JavaScript
+- 6.67% Rust
+- 6.67% Python
+
 
 <!--END_SECTION:repo_distribution-->
