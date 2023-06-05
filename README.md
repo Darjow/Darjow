@@ -22,6 +22,13 @@ No activity tracked
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
+- 3.7% Kotlin
+- 3.7% HTML
+- 18.52% Java
+- 14.81% JavaScript
+- 3.7% Rust
+- 3.7% Python
+- 18.52% TypeScript
 
 
 <!--END_SECTION:repo_distribution-->
