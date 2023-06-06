@@ -26,12 +26,13 @@ Python       6 mins          ▒░░░░░░░░░░░░░░░░
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
-- 6.25% Kotlin
+ ```- 6.25% Kotlin
 - 6.25% HTML
 - 31.25% Java
 - 25% JavaScript
+- 6.25% TypeScript
 - 6.25% Rust
 - 6.25% Python
-
+```
 
 <!--END_SECTION:repo_distribution-->
