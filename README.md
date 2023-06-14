@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darjow&label=Profile%20views&color=0e75b6&style=flat" alt="darjow" /> </p>
 
-- 🔭 I’m currently working on a full stack typescript internal project **ClientPortal**
+- 🔭 I’m currently working on a couple of side projects, the main project is a [rust chat application](https://github.com/Darjow/Rust_ChatApplication)
 
 - 📫 How to reach me **Shock#5170**
 
