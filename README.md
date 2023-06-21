@@ -25,13 +25,13 @@ XML              0 secs          ▓░░░░░░░░░░░░░░�
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
- ```- 6.67% Python
-- 6.67% Kotlin
-- 6.67% HTML
-- 33.33% Java
-- 26.67% JavaScript
-- 6.67% TypeScript
-- 6.67% Rust
+ ```- 6.25% Python
+- 6.25% Kotlin
+- 12.5% HTML
+- 31.25% Java
+- 25% JavaScript
+- 6.25% TypeScript
+- 6.25% Rust
 ```
 
 <!--END_SECTION:repo_distribution-->
