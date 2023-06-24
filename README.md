@@ -28,10 +28,10 @@ Other           14 mins         ██░░░░░░░░░░░░░░
 
  ```- 6.25% Python
 - 6.25% Kotlin
-- 12.5% HTML
+- 6.25% HTML
 - 31.25% Java
 - 25% JavaScript
-- 6.25% TypeScript
+- 12.5% TypeScript
 - 6.25% Rust
 ```
 
