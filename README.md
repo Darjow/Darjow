@@ -23,13 +23,14 @@ Text     4 mins          ██▒░░░░░░░░░░░░░░░�
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
- ```- 6.67% Python
-- 6.67% Kotlin
-- 6.67% HTML
-- 33.33% Java
-- 13.33% TypeScript
-- 20% JavaScript
-- 6.67% Rust
+ ```- 6.25% Python
+- 6.25% Kotlin
+- 6.25% HTML
+- 6.25% CSS
+- 31.25% Java
+- 12.5% TypeScript
+- 18.75% JavaScript
+- 6.25% Rust
 ```
 
 <!--END_SECTION:repo_distribution-->
