@@ -26,14 +26,15 @@ TypeScript   5 mins          ▒░░░░░░░░░░░░░░░░
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
- ```- 6.25% Python
-- 6.25% Kotlin
-- 6.25% HTML
-- 6.25% CSS
-- 31.25% Java
-- 12.5% TypeScript
-- 18.75% JavaScript
-- 6.25% Rust
+ ```- 5.88% Python
+- 5.88% Kotlin
+- 5.88% HTML
+- 5.88% C#
+- 5.88% CSS
+- 29.41% Java
+- 11.76% TypeScript
+- 17.65% JavaScript
+- 5.88% Rust
 ```
 
 <!--END_SECTION:repo_distribution-->
