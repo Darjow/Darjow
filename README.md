@@ -22,15 +22,15 @@ XML          29 mins         ▒░░░░░░░░░░░░░░░░
 📊 **My repositories exist out of:**
 <!--START_SECTION:repo_distribution-->
 
- ```- 5.88% Python
-- 5.88% Kotlin
-- 5.88% HTML
-- 5.88% C#
-- 5.88% CSS
-- 29.41% Java
-- 11.76% TypeScript
-- 17.65% JavaScript
-- 5.88% Rust
+ ```- 5.56% Python
+- 11.11% Kotlin
+- 5.56% HTML
+- 5.56% C#
+- 5.56% CSS
+- 27.78% Java
+- 11.11% TypeScript
+- 16.67% JavaScript
+- 5.56% Rust
 ```
 
 <!--END_SECTION:repo_distribution-->
