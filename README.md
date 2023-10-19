@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,22 +49,16 @@ Sunday                   60 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     50 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
-JavaScript               47 mins             █████████░░░░░░░░░░░░░░░░   34.38 % 
-TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       ████████████████████████░   97.10 % 
-Visual Studio            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cerm-actions             2 hrs 14 mins       ████████████████████████░   97.10 % 
-dotnet_2                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -80,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2023 00:41:08 UTC
+ Last Updated on 19/10/2023 12:17:58 UTC
 <!--END_SECTION:waka-->
