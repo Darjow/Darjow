@@ -49,17 +49,16 @@ Sunday                   60 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sAccLocker               14 mins             ████████████████████████░   95.79 % 
-dreambot                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2023 00:40:18 UTC
+ Last Updated on 27/10/2023 12:17:04 UTC
 <!--END_SECTION:waka-->
