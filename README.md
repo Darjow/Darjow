@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,16 +49,23 @@ Sunday                   60 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 32 mins        ████████████████░░░░░░░░░   63.06 % 
+Kotlin                   46 mins             ████████░░░░░░░░░░░░░░░░░   31.53 % 
+GitIgnore file           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Shell Script             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 26 mins       █████████████████████████   99.92 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Tbot                     2 hrs 24 mins       █████████████████████████   98.54 % 
+sAccLocker               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+egomaniac                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +81,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2023 00:45:01 UTC
+ Last Updated on 12/11/2023 12:15:55 UTC
 <!--END_SECTION:waka-->
