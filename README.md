@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,16 +49,16 @@ Sunday                   60 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tbot                     10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2023 00:43:51 UTC
+ Last Updated on 27/11/2023 12:18:36 UTC
 <!--END_SECTION:waka-->
