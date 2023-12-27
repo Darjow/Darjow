@@ -49,18 +49,16 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-JavaScript               2 hrs 38 mins       █████████████████████████   99.95 % 
-RPMSpec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-1337                     2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +74,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2023 00:41:45 UTC
+ Last Updated on 27/12/2023 12:16:17 UTC
 <!--END_SECTION:waka-->
