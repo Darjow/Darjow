@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-573%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,16 +49,24 @@ Sunday                   61 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs               ██████████████████████░░░   89.77 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+IDEA_MODULE              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            2 hrs 6 mins        ████████████████████████░   94.57 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RummikubSolver           2 hrs               ███████████████████████░░   90.11 % 
+png-generator            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+RK-solver                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +82,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2024 00:49:11 UTC
+ Last Updated on 16/07/2024 12:20:09 UTC
 <!--END_SECTION:waka-->
