@@ -6,13 +6,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-629%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,16 +49,21 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 23 mins       █████████████████░░░░░░░░   69.30 % 
+GitIgnore file           16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WildyScout               3 hrs 14 mins       ███████████████████████░░   93.59 % 
+plugin-hub               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -72,5 +79,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 00:47:42 UTC
+ Last Updated on 17/08/2024 12:17:46 UTC
 <!--END_SECTION:waka-->
