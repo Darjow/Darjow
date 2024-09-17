@@ -6,13 +6,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 165.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -47,18 +49,17 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     1 hr 42 mins        █████████████████████████   98.11 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Java                     2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 44 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SFishingTrawlah          1 hr 40 mins        ████████████████████████░   96.63 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+SFishingTrawlah          2 hrs 3 mins        █████████████████████████   99.06 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +75,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2024 00:43:24 UTC
+ Last Updated on 17/09/2024 12:21:36 UTC
 <!--END_SECTION:waka-->
