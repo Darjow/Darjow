@@ -14,6 +14,8 @@
 
 > 📦 165.8 kB Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -47,17 +49,16 @@ Sunday                   65 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SFishingTrawlah          2 hrs 3 mins        █████████████████████████   99.06 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +74,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2024 00:56:05 UTC
+ Last Updated on 24/09/2024 12:22:32 UTC
 <!--END_SECTION:waka-->
