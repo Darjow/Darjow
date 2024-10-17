@@ -49,18 +49,16 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Java                     2 hrs 38 mins       ████████████████████████░   97.92 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-muling                   2 hrs 40 mins       █████████████████████████   98.93 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -76,5 +74,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2024 00:56:03 UTC
+ Last Updated on 17/10/2024 12:22:28 UTC
 <!--END_SECTION:waka-->
