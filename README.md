@@ -14,8 +14,6 @@
 
 > 📦 138.7 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -79,5 +77,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2024 12:20:19 UTC
+ Last Updated on 23/12/2024 00:57:50 UTC
 <!--END_SECTION:waka-->
