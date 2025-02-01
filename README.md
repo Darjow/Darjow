@@ -18,9 +18,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -77,5 +77,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 12:21:45 UTC
+ Last Updated on 01/02/2025 00:58:40 UTC
 <!--END_SECTION:waka-->
