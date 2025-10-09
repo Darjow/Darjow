@@ -49,16 +49,16 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-egomaniac                6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +74,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 01:00:45 UTC
+ Last Updated on 09/10/2025 12:27:01 UTC
 <!--END_SECTION:waka-->
