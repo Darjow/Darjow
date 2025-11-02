@@ -6,8 +6,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -74,5 +72,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 12:23:43 UTC
+ Last Updated on 02/11/2025 01:08:10 UTC
 <!--END_SECTION:waka-->
