@@ -49,17 +49,16 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-JavaScript               59 mins             ████████████████████░░░░░   81.39 % 
-HTML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-QueslarDungeonSim        1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +74,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2026 01:14:51 UTC
+ Last Updated on 13/01/2026 01:08:19 UTC
 <!--END_SECTION:waka-->
