@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -49,16 +49,22 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               37 mins             █████████████████████░░░░   82.78 % 
+Text                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             ██████████████████████░░░   87.97 % 
+Cursor                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+QueslarDungeonSim        38 mins             █████████████████████░░░░   83.16 % 
+sqlmap-dev               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+VitaLite                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -74,5 +80,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2026 01:27:26 UTC
+ Last Updated on 03/03/2026 12:39:44 UTC
 <!--END_SECTION:waka-->
