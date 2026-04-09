@@ -2,7 +2,7 @@
 <h3 align="center">A software developer passionate about object oriented development.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,16 +45,21 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 3 mins         ██████████████████████░░░   88.77 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+solo-dungeon-filter      1 hr 10 mins        █████████████████████████   99.19 % 
+QueslarDungeonSim        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -70,5 +75,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2026 01:29:35 UTC
+ Last Updated on 09/04/2026 13:07:09 UTC
 <!--END_SECTION:waka-->
