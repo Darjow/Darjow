@@ -45,18 +45,16 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-JavaScript               10 mins             ███████████████████████░░   90.27 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-solo-dungeon-filter      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -72,5 +70,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 01:57:33 UTC
+ Last Updated on 21/04/2026 13:07:50 UTC
 <!--END_SECTION:waka-->
