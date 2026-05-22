@@ -2,6 +2,8 @@
 <h3 align="center">A software developer passionate about object oriented development.</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -68,5 +70,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 02:41:52 UTC
+ Last Updated on 22/05/2026 14:24:02 UTC
 <!--END_SECTION:waka-->
