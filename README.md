@@ -2,7 +2,7 @@
 <h3 align="center">A software developer passionate about object oriented development.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,16 +45,20 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             █████████████░░░░░░░░░░░░   51.75 % 
+CSV                      9 mins              ███████████░░░░░░░░░░░░░░   42.10 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hiscores_evaluator       13 mins             ██████████████░░░░░░░░░░░   57.90 % 
+Unknown Project          9 mins              ███████████░░░░░░░░░░░░░░   42.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -70,5 +74,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2026 02:34:51 UTC
+ Last Updated on 26/05/2026 14:51:35 UTC
 <!--END_SECTION:waka-->
