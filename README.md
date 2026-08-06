@@ -2,9 +2,9 @@
 <h3 align="center">A software developer passionate about object oriented development.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -47,22 +47,43 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      5 mins              ███████████████░░░░░░░░░░   60.42 % 
+JavaScript               2 mins              ████████░░░░░░░░░░░░░░░░░   33.26 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              ███████████████░░░░░░░░░░   59.56 % 
+demo_test                2 mins              █████████░░░░░░░░░░░░░░░░   34.12 % 
+name_validator_discord_bo0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (59.57%)
+
+✍️ 168 lines written by AI, 89 lines written by hand (65.37% AI-written)
+
+🔤 11,597 Input Tokens, 1,300 Output Tokens
+
+💵 $0.05 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opencode-Cli             168 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 65.37% of written lines came from AI
+📝 Concise Prompter — average 156 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 34.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -78,5 +99,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:53:59 UTC
+ Last Updated on 06/08/2026 13:47:04 UTC
 <!--END_SECTION:waka-->
