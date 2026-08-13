@@ -47,43 +47,22 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-CSS                      5 mins              ███████████████░░░░░░░░░░   60.42 % 
-JavaScript               2 mins              ████████░░░░░░░░░░░░░░░░░   33.26 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 mins              ███████████████░░░░░░░░░░   59.56 % 
-demo_test                2 mins              █████████░░░░░░░░░░░░░░░░   34.12 % 
-name_validator_discord_bo0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (59.57%)
-
-✍️ 168 lines written by AI, 89 lines written by hand (65.37% AI-written)
-
-🔤 11,597 Input Tokens, 1,300 Output Tokens
-
-💵 $0.05 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opencode-Cli             168 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 65.37% of written lines came from AI
-📝 Concise Prompter — average 156 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 34.63% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -99,5 +78,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 01:18:29 UTC
+ Last Updated on 13/08/2026 12:53:22 UTC
 <!--END_SECTION:waka-->
