@@ -47,22 +47,45 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     18 mins             ██████████░░░░░░░░░░░░░░░   40.91 % 
+Python                   9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  38 mins             █████████████████████░░░░   83.66 % 
+Agent                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+discord_phone_calls      46 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  46 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 39 mins (84.77%)
+
+✍️ 540 lines written by AI, 13 lines written by hand (97.65% AI-written)
+
+🔤 61,437 Input Tokens, 6,622 Output Tokens
+
+💵 $0.23 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 7 AI Prompts
+
+Composer                 585 lines           █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.65% of written lines came from AI
+📚 Verbose Prompter — average 4,728 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -78,5 +101,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 12:36:43 UTC
+ Last Updated on 27/08/2026 06:32:27 UTC
 <!--END_SECTION:waka-->
