@@ -2,9 +2,9 @@
 <h3 align="center">A software developer passionate about object oriented development.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-752%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,22 +47,46 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 17 mins        ███████████████░░░░░░░░░░   59.82 % 
+Markdown                 40 mins             ████████░░░░░░░░░░░░░░░░░   31.75 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 59 mins        ███████████████████████░░   92.44 % 
+Copilot CLI              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+voice_echo               1 hr 54 mins        ██████████████████████░░░   88.52 % 
+discord_phone_calls      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 17 mins (60.12%)
+
+✍️ 2,086 lines written by AI, 355 lines written by hand (85.46% AI-written)
+
+🔤 254,417 Input Tokens, 2,879 Output Tokens
+
+💵 $0.81 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 29 AI Prompts
+
+Vscode                   1,629 lines         ███████████████████░░░░░░   77.94 % 
+Github-Copilot           457 lines           █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 85.46% of written lines came from AI
+📝 Concise Prompter — average 201 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 26.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -78,5 +102,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 03:11:13 UTC
+ Last Updated on 27/10/2026 17:09:52 UTC
 <!--END_SECTION:waka-->
