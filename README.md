@@ -2,9 +2,9 @@
 <h3 align="center">A software developer passionate about object oriented development.</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -47,46 +47,47 @@ Sunday                   59 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ███████████████░░░░░░░░░░   59.82 % 
-Markdown                 40 mins             ████████░░░░░░░░░░░░░░░░░   31.75 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python                   1 hr 58 mins        ████████████████░░░░░░░░░   64.86 % 
+Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+HTTP                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        ███████████████████████░░   92.44 % 
-Copilot CLI              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+VS Code                  2 hrs 27 mins       ████████████████████░░░░░   81.03 % 
+Copilot CLI              34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 
 🐱‍💻 Projects: 
-voice_echo               1 hr 54 mins        ██████████████████████░░░   88.52 % 
-discord_phone_calls      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+voice_echo               1 hr 54 mins        ████████████████░░░░░░░░░   62.60 % 
+find-colonies            53 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+discord_phone_calls      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (60.12%)
+⏱ AI Coding Time: 1 hr 42 mins (56.14%)
 
-✍️ 2,086 lines written by AI, 355 lines written by hand (85.46% AI-written)
+✍️ 2,382 lines written by AI, 392 lines written by hand (85.87% AI-written)
 
-🔤 254,417 Input Tokens, 2,879 Output Tokens
+🔤 1,101,445 Input Tokens, 303,137 Output Tokens
 
-💵 $0.81 Estimated AI Cost This Week
+💵 $1.25 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 29 AI Prompts
+🧠 5 AI Sessions, 45 AI Prompts
 
-Vscode                   1,629 lines         ███████████████████░░░░░░   77.94 % 
-Github-Copilot           457 lines           █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Vscode                   1,629 lines         █████████████████░░░░░░░░   66.90 % 
+Github-Copilot           457 lines           █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+GPT                      349 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.46% of written lines came from AI
-📝 Concise Prompter — average 201 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 26.02% of changed lines were hand-edited
+🤖 AI-Driven — 85.87% of written lines came from AI
+📝 Concise Prompter — average 445 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 24.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -102,5 +103,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 03:40:51 UTC
+ Last Updated on 01/11/2026 17:28:47 UTC
 <!--END_SECTION:waka-->
